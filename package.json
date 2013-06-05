@@ -1,0 +1,15 @@
+{
+  "name": "levenshtein-distance",
+  "version": "0.0.2",
+  "description": "Distance is a Coffeescript for calculating distances between strings.",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:vural/nodejs-levenshtein-distance.git",
+    "type": "git"
+  },
+  "dependencies": {
+    "coffee-script"   : "1.6.2"
+  },
+  "author": "vural",
+  "license": "BSD"
+}
